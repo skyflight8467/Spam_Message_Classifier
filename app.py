@@ -3,9 +3,11 @@ import time
 
 import pickle  # Import pickle library for loading trained models
 import string  # Import string library for string operations
-from nltk.corpus import stopwords  # Import NLTK's stopwords for removing common words
 import nltk  # Import NLTK library for natural language processing tasks
+from nltk.corpus import stopwords  # Import NLTK's stopwords for removing common words
 from nltk.stem.porter import PorterStemmer  # Import PorterStemmer for word stemming
+
+nltk.download('punkt')
 
 # Initialize PorterStemmer for word stemming
 ps = PorterStemmer()
