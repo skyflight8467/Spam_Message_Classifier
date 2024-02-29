@@ -8,6 +8,7 @@ from nltk.corpus import stopwords  # Import NLTK's stopwords for removing common
 from nltk.stem.porter import PorterStemmer  # Import PorterStemmer for word stemming
 
 nltk.download('punkt')
+nltk.download('stopwords')
 
 # Initialize PorterStemmer for word stemming
 ps = PorterStemmer()
