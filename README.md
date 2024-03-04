@@ -13,9 +13,9 @@ The Spam Message Classifier is a tool that allows users to input a message and d
 
   ![s1](https://github.com/skyflight8467/Spam_Message_Classifier/assets/103205202/145ac877-2422-4a07-a3dc-41f54334a9b6)
 
-  ![sspam](https://github.com/skyflight8467/Spam_Message_Classifier/assets/103205202/a0eaae11-396e-40b8-86d5-f739a8005d41)
-
   ![sham](https://github.com/skyflight8467/Spam_Message_Classifier/assets/103205202/e7b693d7-a447-4578-be49-2d6310dd07fa)
+
+  ![sspam](https://github.com/skyflight8467/Spam_Message_Classifier/assets/103205202/a0eaae11-396e-40b8-86d5-f739a8005d41)
 
 - **Model Performance**: The machine learning model has been trained on a diverse dataset and is optimized for accuracy.
 
